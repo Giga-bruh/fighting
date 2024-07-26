@@ -11,7 +11,7 @@ class Baza:
         self.igra = igra
         self.x = x
         self.y = y
-        self.hp = 50
+        self.hp = 300
         self.hp_banner = self.hp
         self.atacka = 0
         self.vrema_atacki = 0
